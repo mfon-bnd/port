@@ -126,7 +126,7 @@ function App() {
                 </p>
 
                 <p className="pl-6">
-                  profession: <span className="text-orange-400">Student</span>
+                  profession: <span className="text-orange-400">'Student'</span>
                 </p>
 
                 <p>{"}"}</p>
