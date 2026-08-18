@@ -114,7 +114,7 @@ function App() {
                 </p>
 
                 <p className="pl-6">
-                  name: <span className="text-green-400">'Mfonabasi Benjamin Udoh'</span>,
+                  name: <span className="text-green-400">'Mfon Benjamin'</span>,
                 </p>
 
                 <p className="pl-6">
@@ -122,11 +122,11 @@ function App() {
                 </p>
 
                 <p className="pl-6">
-                  passion: <span className="text-green-400">'programming and developing new applications and idaes'</span>,
+                  passion: <span className="text-green-400">'Programming and developing new applications and ideas'</span>,
                 </p>
 
                 <p className="pl-6">
-                  profession: <span className="text-orange-400">student in Top Faith University</span>
+                  profession: <span className="text-orange-400">Student</span>
                 </p>
 
                 <p>{"}"}</p>
@@ -156,13 +156,13 @@ function App() {
 
           <div className="mt-8 max-w-3xl text-lg leading-8 text-gray-400">
             <p>
-              I'm a software engineering student in Top faith university, passionate about creating applications
+              I'm a software engineering student passionate about creating applications
               that solve real problems. I enjoy working across the stack,
               from designing interfaces to building backend systems.
             </p>
 
             <p className="mt-5">
-              i am currently focused on building web apps using mordern tools and technologies like React, Node.js, and Tailwind CSS. I always look for new challenges to help me grow as a devoloper.
+              I am currently focused on building web apps using modern tools and technologies like React, Node.js, and Tailwind CSS. I always look for new challenges to help me grow as a devoloper.
             </p>
           </div>
 
@@ -181,7 +181,7 @@ function App() {
           </p>
 
           <h2 className="mt-3 text-4xl font-bold">
-            i am fluent in these programming languages and tools
+            I am fluent in these programming languages and tools
           </h2>
 
           <div className="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
@@ -313,7 +313,7 @@ function App() {
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 text-sm text-gray-500 md:flex-row">
 
           <p>
-            © 2026 MfonAbasix. All rights reserved.
+            © 2026 Mfon. All rights reserved.
           </p>
           
 
