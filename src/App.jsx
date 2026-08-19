@@ -162,7 +162,7 @@ function App() {
             </p>
 
             <p className="mt-5">
-              I am currently focused on building web apps using modern tools and technologies like React, Node.js, and Tailwind CSS. I always look for new challenges to help me grow as a devoloper.
+              I am currently focused on building web apps using modern tools and technologies like React, Node.js, and Tailwind CSS. I always look for new challenges to help me grow as a developer.
             </p>
           </div>
 
